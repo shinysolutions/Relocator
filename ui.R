@@ -1,2 +1,0 @@
-
-shinyUI(bootstrapPage(uiOutput("uiHTML")))
